@@ -1,12 +1,12 @@
 print("Hello World")
-print("my name is kiran")
-print("my age is 19.")
+print("my name is user")
+print("my age is 24.")
 print("i have two apples","but ill give one to you.")
 print(25)
 print(30+30)
-name = "kiran" #string
-age = 20 #int
-weight = 49.8 #float
+name = "Nancy" #string
+age = 24 #int
+weight = 55 #float
 print("my age is:", name)
 print("my age is:", age)
 print("my weight is:", weight)
@@ -131,6 +131,7 @@ print("total average is:", (a+b)/2) #FORMULA OF AVERAGE  A PLUS B UPON/DIVIDED B
 a = int (input("enter your first value"))
 b = int(input("enter your second value"))
 print(a >= b)
+
 
 
 
