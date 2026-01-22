@@ -1,5 +1,5 @@
 print("Hello World")
-print("my name is user")
+print("my name is Alice")
 print("my age is 24.")
 print("i have two apples","but ill give one to you.")
 print(25)
@@ -131,6 +131,7 @@ print("total average is:", (a+b)/2) #FORMULA OF AVERAGE  A PLUS B UPON/DIVIDED B
 a = int (input("enter your first value"))
 b = int(input("enter your second value"))
 print(a >= b)
+
 
 
 
